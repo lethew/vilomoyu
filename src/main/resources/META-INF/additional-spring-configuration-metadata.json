@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "spring.influx.database",
+      "type": "java.lang.String",
+      "description": "Description for spring.influx.database."
+    }
+  ] }

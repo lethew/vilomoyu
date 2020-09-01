@@ -1,0 +1,7 @@
+spring:
+  influx:
+    url: http://localhost:8086
+    database: vilomoyu
+    user: admin
+    password: 123qwe
+
