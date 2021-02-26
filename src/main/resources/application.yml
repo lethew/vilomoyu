@@ -8,7 +8,7 @@ spring:
 
   h2:
     console:
-      path: h2
+      path: /h2
       enabled: true
       settings:
         web-allow-others: true
@@ -17,4 +17,6 @@ spring:
     generate-ddl: true
     show-sql: true
     hibernate:
-      ddl-auto: update
+      ddl-auto: create
+server:
+  port: 8080

@@ -1,4 +1,4 @@
-package studio.greeks.vilomoyu.model.log;
+package studio.greeks.vilomoyu.model.bo;
 
 import lombok.Data;
 
